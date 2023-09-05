@@ -1,0 +1,15 @@
+Source Labware,Source Slot,Source Well,Source Aspiration Height Above Bottom (in mm),Dest Labware,Dest Slot,Dest Well,Volume (in ul)
+falcon_96_wellplate_320ul,2,A01,1,axygen_96_wellplate_1100ul,1,A01,100
+falcon_96_wellplate_320ul,2,A02,1,axygen_96_wellplate_1100ul,1,A02,100
+falcon_96_wellplate_320ul,2,A03,1,axygen_96_wellplate_1100ul,1,A03,100
+falcon_96_wellplate_320ul,2,A04,1,axygen_96_wellplate_1100ul,1,A04,100
+**RELOAD,,,,,,,
+falcon_96_wellplate_320ul,11,B05,1,axygen_96_wellplate_1100ul,1,D09,100
+falcon_96_wellplate_320ul,11,C05,1,axygen_96_wellplate_1100ul,1,D10,100
+falcon_96_wellplate_320ul,11,D05,1,axygen_96_wellplate_1100ul,1,D11,100
+falcon_96_wellplate_320ul,11,E05,1,axygen_96_wellplate_1100ul,1,D12,100
+**RELOAD,,,,,,,
+falcon_96_wellplate_320ul,10,D02,1,axygen_96_wellplate_1100ul,1,G05,100
+falcon_96_wellplate_320ul,10,E02,1,axygen_96_wellplate_1100ul,1,G06,100
+falcon_96_wellplate_320ul,10,F02,1,axygen_96_wellplate_1100ul,1,G07,100
+falcon_96_wellplate_320ul,10,B02,1,axygen_96_wellplate_1100ul,1,G08,100
